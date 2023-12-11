@@ -11,7 +11,6 @@
 - [Usage](#usage)
 - [Documentation](#documentation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 This project is a complex calculator implemented on a Tiva C Series microcontroller. It allows users to perform basic arithmetic operations, including addition, subtraction, multiplication, and division, with support for parentheses. The calculator takes input from a keypad and displays the result on an LCD screen.
