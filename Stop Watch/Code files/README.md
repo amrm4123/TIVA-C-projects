@@ -16,9 +16,9 @@ A simple Stopwatch project using the SysTick timer and displaying the time on an
 
 This project implements a Stopwatch using the SysTick timer on a Tiva C microcontroller and displays the time in seconds, minutes, and hours on an LCD screen. It's a great educational project for learning about timers, interrupts, and LCD interfacing.
 
-## Demo
+## video
 
-[![Watch the demo video](link-to-demo-thumbnail-image)](link-to-demo-video)
+[![Watch the video](link-to-demo-thumbnail-image)]([link-to-demo-video](https://github.com/amrm4123/TIVA-C-projects/tree/main/Stop%20Watch/Video))
 
 (Link the above placeholders to actual demo video and thumbnail image hosted on a platform like YouTube or Vimeo.)
 
