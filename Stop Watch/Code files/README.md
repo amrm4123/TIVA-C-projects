@@ -18,7 +18,7 @@ This project implements a Stopwatch using the SysTick timer on a Tiva C microcon
 
 ## video
 
-[![Watch the video]]([link-to-demo-video](https://github.com/amrm4123/TIVA-C-projects/tree/main/Stop%20Watch/Video))
+[![Watch the video]]((https://github.com/amrm4123/TIVA-C-projects/tree/main/Stop%20Watch/Video))
 
 (Link the above placeholders to actual demo video and thumbnail image hosted on a platform like YouTube or Vimeo.)
 
