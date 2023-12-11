@@ -54,9 +54,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 3. Make your changes and commit them.
 4. Create a pull request, describing your changes and their purpose.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 *Note:* Replace `calculator_image.png` with an image of your calculator or any other relevant image for your project. Also, make sure to provide specific details for the hardware connections and any additional setup steps required for your project.
