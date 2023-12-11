@@ -40,9 +40,6 @@ The main loop of the program continuously reads sensor values and controls the c
 
 Contributions to this project are welcome! If you have ideas for improvements, bug fixes, or additional features, please open an issue or submit a pull request.
 
-### License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
