@@ -8,7 +8,7 @@ A simple Stopwatch project using the SysTick timer and displaying the time on an
 ## Table of Contents
 
 - [About](#about)
-- [Demo](#demo)
+- [video](#demo)
 - [Components](#components)
 - [How It Works](#how-it-works)
 
